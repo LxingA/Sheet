@@ -1,0 +1,2 @@
+# Google Sheet - Control General [K]
+Código Fuente de mi Archivo "[K] Control General V3" de mi Proyecto Xink en la Empresa XK Media S.A de C.V para las Correciones de las Tiendas OXXO, Incidencias en los Pedidos y Reporteador de los Pedidos de forma diaria
